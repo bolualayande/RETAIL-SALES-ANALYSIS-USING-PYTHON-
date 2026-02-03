@@ -6,40 +6,40 @@
 ## OBJECTIVE OF THE PROJECT 
 ##### The main objectives of this analysis is to: 
 
-###### Uncover overall sales performance. 
-###### Check sales trend by product, age and gender.
-###### Identify the top and bottom performing products. 
-###### Support business decision making. 
+##### Uncover overall sales performance. 
+##### Check sales trend by product, age and gender.
+##### Identify the top and bottom performing products. 
+##### Support business decision making. 
 
 
 ## DATASET DESCRIPTION
 ##### The dataset used was gotten from Kaggle. It contains 1000 entries and 9 columns. The variables in the dataset are as follows:
 
-###### Transaction ID 
-###### Date
-###### Customer ID
-###### Gender  
-###### Age  
-###### Product Category 
-###### Quantity 
-###### Price per Unit
-###### Total Amount             
+##### Transaction ID 
+##### Date
+##### Customer ID
+##### Gender  
+##### Age  
+##### Product Category 
+##### Quantity 
+##### Price per Unit
+##### Total Amount             
 
 
 ## TOOLS AND TECHNOLOGIES 
 
-###### Python
-###### Jupyter Notebook 
-###### Numpy 
-###### Pandas
-###### Seaborn
-###### Matplotlib 
+##### Python
+##### Jupyter Notebook 
+##### Numpy 
+##### Pandas
+##### Seaborn
+##### Matplotlib 
 
 ## DATA CLEANING AND PREPARATION
 
-###### Checked for duplicates and null values
-###### Changed the date to a datetime data instead of being an object 
-###### Created new columns to divide the data into day, month and year
+##### Checked for duplicates and null values
+##### Changed the date to a datetime data instead of being an object 
+##### Created new columns to divide the data into day, month and year
 
 ## STATISTICAL ANALYSIS
 
