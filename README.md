@@ -42,7 +42,10 @@
 ##### Created new columns to divide the data into day, month and year
 
 ## STATISTICAL ANALYSIS
-
+#### The statistical analysis performed are: 
+##### Descriptive statistics(mean, median, standard deviation and count)
+##### Correlation analysis 
+##### Sales distribution analysis
 
 ## SALES TREND ANALYSIS
 
@@ -57,7 +60,7 @@
 
 ## VISUALIZATION
 
-#### The peoject includes the following visuals:
+#### The project includes the following visuals, they were created using seaborn and matplotlib:
 
 ##### Bar Chart
 ##### Box Plot
@@ -66,8 +69,14 @@
 
 ## CUSTOMER AND PRODUCT ANALYSIS
 
+#### For this four business questions were explored and they are:
+##### 1. Does customer age and gender influence their purchasing behavior?
+##### 2. Are there discernible patterns in sales across different time periods?
+##### 3. Which product categories hold the highest appeal among customers?
+##### 4. What are the relationships between age, spending, and product preferences?
 
 
 ## KEY INSIGHTS AND FINDINGS
 #### Key findings gotten from this analysis are: 
+
 
