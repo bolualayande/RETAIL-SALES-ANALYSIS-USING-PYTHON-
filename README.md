@@ -1,1 +1,52 @@
-# RETAIL-SALES-ANALYSIS-USING-PYTHON-
+# RETAIL SALES ANALYSIS USING PYTHON (NUMPY, PANDAS, MATPLOTLIB, SEABORN)
+
+## PROJECT OVERVIEW 
+##### This project analyzes a retail sales dataset to reveal trends, customer behavior and the performance of each product. Using Python in Jupyter Notebook environment, I loaded the dataset in, cleaned it and conducted statistical analysis, sales trends and answered business questions relating to customer and product analysis.
+
+## OBJECTIVE OF THE PROJECT 
+##### The main objectives of this analysis is to: 
+
+###### Uncover overall sales performance. 
+###### Check sales trend by product, age and gender.
+###### Identify the top and bottom performing products. 
+###### Support business decision making. 
+
+
+## DATASET DESCRIPTION
+##### The dataset used was gotten from Kaggle. It contains 1000 entries and 9 columns. The variables in the dataset are as follows:
+
+###### Transaction ID 
+###### Date
+###### Customer ID
+###### Gender  
+###### Age  
+###### Product Category 
+###### Quantity 
+###### Price per Unit
+###### Total Amount             
+
+
+## TOOLS AND TECHNOLOGIES 
+
+###### Python
+###### Jupyter Notebook 
+###### Numpy 
+###### Pandas
+###### Seaborn
+###### Matplotlib 
+
+## DATA CLEANING AND PREPARATION
+
+###### Checked for duplicates and null values
+###### Changed the date to a datetime data instead of being an object 
+###### Created new columns to divide the data into day, month and year
+
+## STATISTICAL ANALYSIS
+
+## SALES TREND ANALYSIS
+
+## CUSTOMER AND PRODUCT ANALYSIS
+
+## KEY INSIGHTS AND FINDINGS
+
+## VISUALIZATION 
