@@ -1,10 +1,10 @@
 # RETAIL SALES ANALYSIS USING PYTHON (NUMPY, PANDAS, MATPLOTLIB, SEABORN)
 
 ## PROJECT OVERVIEW 
-##### This project analyzes a retail sales dataset to reveal trends, customer behavior and the performance of each product. Using Python in Jupyter Notebook environment, I loaded the dataset in, cleaned it and conducted statistical analysis, sales trends and answered business questions relating to customer and product analysis.
+#### This project analyzes a retail sales dataset to reveal trends, customer behavior and the performance of each product. Using Python in Jupyter Notebook environment, I loaded the dataset in, cleaned it and conducted statistical analysis, sales trends and answered business questions relating to customer and product analysis.
 
 ## OBJECTIVE OF THE PROJECT 
-##### The main objectives of this analysis is to: 
+#### The main objectives of this analysis is to: 
 
 ##### Uncover overall sales performance. 
 ##### Check sales trend by product, age and gender.
@@ -13,7 +13,7 @@
 
 
 ## DATASET DESCRIPTION
-##### The dataset used was gotten from Kaggle. It contains 1000 entries and 9 columns. The variables in the dataset are as follows:
+#### The dataset used was gotten from Kaggle. It contains 1000 entries and 9 columns. The variables in the dataset are as follows:
 
 ##### Transaction ID 
 ##### Date
@@ -26,7 +26,7 @@
 ##### Total Amount             
 
 
-## TOOLS AND TECHNOLOGIES 
+## TOOLS
 
 ##### Python
 ##### Jupyter Notebook 
@@ -43,10 +43,31 @@
 
 ## STATISTICAL ANALYSIS
 
+
 ## SALES TREND ANALYSIS
+
+#### The trends were explored using graphics and the questions answered are:
+
+##### Sales by gender distribution
+##### Sales by age distribution
+##### Purchases per products
+##### Monthly sales quantity by gender
+##### Sales by month 
+
+
+## VISUALIZATION
+
+#### The peoject includes the following visuals:
+
+##### Bar Chart
+##### Box Plot
+##### Count Plot
+##### Histogram
 
 ## CUSTOMER AND PRODUCT ANALYSIS
 
-## KEY INSIGHTS AND FINDINGS
 
-## VISUALIZATION 
+
+## KEY INSIGHTS AND FINDINGS
+#### Key findings gotten from this analysis are: 
+
